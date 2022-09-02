@@ -1,4 +1,5 @@
 #!/bin/bash
-Applications    Documents   Dropbox Movies Pictures
+ls
+
 
 
